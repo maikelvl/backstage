@@ -1,5 +1,11 @@
 # @backstage/plugin-scaffolder-backend
 
+## 0.9.3
+
+### Patch Changes
+
+- 9f2e51e89: Fixes bug in the `github:publish` action causing repositories to be set as private even if the visibility is set to internal
+
 ## 0.9.2
 
 ### Patch Changes
